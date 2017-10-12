@@ -1,0 +1,1 @@
+/Users/roohiya/.config/nvim/init.vim
